@@ -103,18 +103,5 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 #[kontrol ve test grubunun kazançları arasında anlamlı bir farklılık yoktur.]
 
 
-#################################################################################################################################################
-# GÖREV 4:Sonuçların Analizi
-
-# ADIM 1: Hangi testi kullandınız, sebeplerini belirtiniz.
-
-#ttest kullanıldı sebebii varyans homojenliği ve normal dağılım varsayımına uygun oldugu için
-
-
-# ADIM 2: Elde ettiğiniz test sonuçlarına göre müşteriye tavsiyede bulununuz.
-
-#müşteriye max bidding ve test bidding methodlarının kazançları arasında anlamlı bir farklılık yok derim.
-
-
 
 
