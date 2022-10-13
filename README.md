@@ -1,6 +1,6 @@
 # AB-Testi-ile-Bidding-Yontemlerinin-Donusumunun-Karsilastirilmasi
 
-- İş Problemi
+İş Problemi
 - Facebook kısa süre önce mevcut "maximumbidding" adı verilen
 teklif verme türüne alternatif olarak yeni bir teklif türü olan
 "average bidding"’i tanıttı.
