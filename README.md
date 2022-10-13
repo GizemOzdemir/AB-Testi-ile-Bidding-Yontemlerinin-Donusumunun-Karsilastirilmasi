@@ -14,7 +14,7 @@ Bombabomba.com için nihai başarı ölçütü Purchase'dır. Bu
 nedenle, istatistiksel testler için Purchase metriğine
 odaklanılmalı dır.
 
-- Veri Seti Hikayesi
+Veri Seti Hikayesi
 
 -Bir firmanın web site bilgilerini içeren bu veri setinde kullanıcıların gördükleri ve tıkladıkları reklam sayıları gibi bilgilerin yanı sıra
 buradan gelen kazanç bilgileri yer almaktadır. Kontrol ve Test grubu olmak üzere iki ayrı veri seti vardır. Bu veri setleri
